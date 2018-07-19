@@ -34,9 +34,10 @@ Prototipo en figma: (Adjuntar liga)
 
 ## Historias de usuario.
 
-Yo como persona con leucemia quiero una red social donde pueda encontrar apoyo emocional de personas que pasan por la misma enfermedad o que tienen familiares con el mismo padecimiento.
-Yo como persona con esta necesidad, busco la red social que más se adapte a lo que quiero.
-Yo como persona con leucemia quiero conocer los beneficios que obtendría al registrarme en esa red social. 
-Yo como usuario registrado en esa red social quiero poder entrar con mi cuenta de facebook o google, además de mi correo y contraseña.
-Yo como usuario perteneciente a esta comunidad quiero poder escribir comentarios de como me siento y ver comentarios de otras personas.
+Yo **como** persona con leucemia **quiero** una red social donde pueda encontrar apoyo emocional de personas que pasan por la misma enfermedad o que tienen familiares con el mismo padecimiento **para** sentirme acompañado en mi lucha contra la leucemia.
+1.Yo como persona con esta necesidad, busco la red social que más se adapte a lo que quiero.
+2.Yo como persona con leucemia quiero conocer los beneficios que obtendría para registrarme en esa red social. 
+3.Yo como usuario registrado en esa red social quiero poder entrar con mi cuenta de facebook o google, además de mi correo y contraseña.
+4.Yo como usuario perteneciente a esta comunidad quiero poder escribir comentarios de como me siento y ver comentarios de otras personas.
+5.Yo como usuario de esta red social quiero poder tener un perfil para acceder a el. 
 
