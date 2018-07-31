@@ -9,7 +9,6 @@ const config = {
 firebase.initializeApp(config);
 const database = firebase.database();
 
-
 let namePost = document.getElementById('namePost');
 let messagePost = document.getElementById('messagePost');
 let btnPost = document.getElementById('btnPost');
